@@ -18,7 +18,7 @@ This is a simple and interactive To-Do List application that helps users manage 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/sakariyapritl/todo-list-app.git
    ```
 2. Navigate to the project folder:
    ```bash
